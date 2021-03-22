@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-22T20:15:16-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "ojeancarlo",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-22T20:15:17-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
