@@ -14,7 +14,7 @@ Especialista em **Data & Analytics** com base em Ribeirão Preto/SP, unindo viv�
 
 ### Caixa de Ferramentas
 
-Seleciono a tecnologia certa para cada desafio, priorizando arquiteturas sólidas e entregas objetivas:
+Estas são algumas das tecnologias que utilizo para projetar, desenvolver e entregar soluções de dados, analytics, automação e aplicações web.
 
 <p align="left">
   <strong>🔢 Analytics</strong><br>
