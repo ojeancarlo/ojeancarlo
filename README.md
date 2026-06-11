@@ -53,3 +53,7 @@ Se você trabalha com dados, BI ou simplesmente tem uma ideia que precisa de um 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancarlonds/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ojeancarlo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeancnds@gmail.com)
+
+---
+
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=ojeancarlo&color=blue&style=flat-square&label=Acessos_ao_perfil)
