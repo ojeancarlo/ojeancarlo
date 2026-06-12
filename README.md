@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Especialista em **Data & Analytics** com base em Ribeirão Preto/SP, unindo vivência operacional profunda e visão estratégica de negócios para resolver desafios complexos na interseção entre tecnologia e inovação de processos.
+Especialista em **Inteligência de Dados** com base em Ribeirão Preto/SP, unindo vivência operacional profunda e visão estratégica de negócios para resolver desafios complexos na interseção entre tecnologia e inovação de processos.
 
 🔍 **Atualmente:** Atuo no suporte estratégico à excelência agrícola e corporativa com dados, definindo indicadores e métricas, estruturando rotinas e viabilizando soluções técnicas para que as equipes entreguem resultados consistentes em ambientes onde a precisão da informação é crítica.
 
