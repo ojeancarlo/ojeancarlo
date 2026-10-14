@@ -68,5 +68,5 @@ Se você trabalha com dados, BI ou simplesmente tem uma ideia que precisa de um 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ojeancarlo.ojeancarlo&color=blue&style=flat-square" alt="Visualizações do Perfil" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ojeancarlo.ojeancarlo&title=Visitas%20ao%20perfil&color=blue&style=flat-square" alt="Visualizações do Perfil" />
 </p>
